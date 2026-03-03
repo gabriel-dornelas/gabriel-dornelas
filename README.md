@@ -1,7 +1,8 @@
 # Bem vindo, eu sou Gabriel Dornela
 
-Estudante de Desenvolvimento de Software  
+Estudante de Engenharia de Software  
 Focado em Cybersegurança
+
 ---
 
 ## Sobre mim
@@ -22,10 +23,11 @@ Meu objetivo é me tornar um desenvolvedor completo e futuramente atuar na área
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 - Segurança da Informação
 - Pentest
@@ -36,8 +38,4 @@ Meu objetivo é me tornar um desenvolvedor completo e futuramente atuar na área
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel-dornelas&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dornelas&layout=compact&theme=dark)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhyMHlwY3pmemQzb20wdThocTB1cjNuM2s1NmM3OHU1N3dhbmt2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWD3CtcudWL28/giphy.gif" width="400px">
